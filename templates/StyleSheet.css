@@ -1,0 +1,165 @@
+*{
+    margin:0;
+    padding:0;
+}
+h1{
+    font-size: 30px;
+    font-family: Bell MT;
+}
+.nav{
+    margin-bottom:20px;
+}
+ .nav{
+    font-family:Lucida Calligraphy;
+    height:70px;
+    width:100%;
+    background-color: aquamarine;
+    }
+    .logo{
+font-size:50px;
+font-weight:bold;
+color:#181210;
+padding:0px 150px;
+}
+.name{
+font-size:20px;
+font-weight:bold;
+color:#5f4c45;
+}
+    .nav ul{
+    float:right;
+    margin-right:40px;
+    }
+    .nav li{
+        text-decoration:none;
+        list-style-type:none;
+        display:inline-block;
+        margin:0px 8px;
+        line-height:40px;
+    }
+    .nav a {
+        color:#504540;
+        font-size:20px;
+    }
+    nav
+     {
+        text-align:center; 
+        background-color:#66544e;
+     }
+     nav ul
+     {
+         list-style-type: none;
+         position: relative;
+     } 
+     nav ul li
+     {
+        background-color:#d6bbb3;
+     }
+    nav a 
+    {
+        display: block;
+        text-decoration: none;
+        color:#504540;
+        font-weight:bold;
+        font-family:Helvetica;
+        padding:25px;
+    }
+    nav ul ul
+    {
+        position: absolute;
+        z-index: 1;
+        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+        background-color: #f9f9f9;
+        min-width: 150px;
+        display: none;
+    }
+    nav ul ul li a{
+        color: #473c37;
+        display: block;
+        text-decoration: none;
+        padding: 12px 16px;
+    }
+    nav a:hover
+    {
+       text-decoration:3px underline;
+    }
+    nav ul li:hover ul{
+        display:block;
+    }
+    nav ul ul li
+    {
+        width:auto;
+        display: list-item;
+    }
+    nav ul ul ul li{
+      top: +60px;
+      left: 0px;
+    }    
+    nav ul li
+    {
+    display:inline-block;
+    }
+    body{
+        background-color:#BFD8D2 ;
+    }
+    .container ul{
+color:#1a1817;
+float:left;
+background-color:#f5eeec;
+overflow:hidden;
+padding-left:156px;
+font-size:16px;
+font-weight: bold;
+}
+.container{
+background-color:#f5efed
+
+}
+.block{
+background-color:#f7f4f3;
+}
+.container li{
+list-style:none;
+text-decoration:none;
+line-height:40px;
+}
+.container li a{
+text-decoration:none;
+color:#2b2827;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-weight: bold;
+}
+#h{
+font-size:27px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-weight:bold;
+}
+#ename{
+width:300px;
+height:50px;
+margin-top:20px;
+}
+.s{
+margin-top:15px;
+background-color:#FEDCD2;
+border:#524946;
+color:#5e524d;
+height:40px;
+width:100px;
+}
+.s:hover{
+color:#473e3b;
+background-color:#504642;
+font-size: 300px;
+}
+.u{
+color:#36317e;
+background-color:#503d96;
+border:none;
+}
+.icn{
+color:#574b47;
+background:#d3bbb3;
+border:none;
+}
+    
